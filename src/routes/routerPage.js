@@ -1,5 +1,5 @@
 import React from 'react'  
-import { Route, BrowserRouter as Router, Link, Switch, Redirect } from 'react-router-dom'  
+import { Route, BrowserRouter as Router, /* Link, */ Switch, Redirect } from 'react-router-dom'  
 
 // 引入所有基础配置
 //import '../config/globalConfig'
